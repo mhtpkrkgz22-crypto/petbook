@@ -113,5 +113,45 @@ body {
     color: #000000;
 }
 
+.text-box{
+    background-color: #E5E7EB;
+    padding: 100px 20%;
+}
+
+.signup-box {
+    padding: 80px 15%;
+}
+
+.signup-body {
+    background-color: #3882F6;
+    padding: 50px 80px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.signup-title {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.signup-text {
+    font-size: 18px;
+}
+
+.signup-button {
+    border: 2px solid white;
+    background: none;
+    color: white;
+    padding: 8px 30px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
 
 
